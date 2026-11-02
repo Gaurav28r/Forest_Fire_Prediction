@@ -28,8 +28,8 @@ Based on the benchmarks, the **Support Vector Machine (SVM)** proved to be the u
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Gaurav28r/YOUR_REPOSITORY_NAME.git
-   cd YOUR_REPOSITORY_NAME
+   git clone https://github.com/Gaurav28r/Forest_Fire_Prediction.git
+   cd Forest_Fire_Prediction
    ```
 
 2. **Install the required dependencies:**
